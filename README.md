@@ -1,3 +1,2 @@
 This is a readme file for the tutorial repository
-a line between...
 hello this is a test
